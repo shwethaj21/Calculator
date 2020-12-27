@@ -1,0 +1,35 @@
+
+.container{
+    text-align: center;
+    
+    
+}
+table{
+    margin: auto;
+}
+input{
+    font-size: 15px;
+    border-radius: 5px;
+    background-color: pink;
+    
+}
+button{
+    font-size: 24px;
+    background-color: rgba(148, 0, 211, 0.548);
+    width: 32px;
+    height: 32px;
+    border-radius: 5px;
+}
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+.calculator{
+    background-color: rgb(255, 20, 224);
+    display: inline-block;
+    border: rgba(34, 5, 46, 0.726);
+}
+h1{
+    color: purple;
+}
